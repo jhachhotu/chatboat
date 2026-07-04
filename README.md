@@ -362,8 +362,8 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/jhachhotu
+- LinkedIn: https://www.linkedin.com/in/kumarchhotu/
 
 ---
 
